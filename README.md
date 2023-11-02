@@ -1,6 +1,6 @@
 # EmployeeManagement
 
-Чтобы развернуть приложение распакуйте архив, поменяйте сроку подключения к бд в классе program и EmployeeManagementForm , создайте таблицу по скрипту 
+Чтобы развернуть приложение распакуйте архив, поменяйте сроку подключения к бд в классе program и EmployeeForm , создайте таблицу по скрипту 
 CREATE TABLE Employee
 (
     Id INT PRIMARY KEY IDENTITY(1,1),
