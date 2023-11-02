@@ -1,0 +1,15 @@
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\net5.0\EmployeeManagement.BLL.deps.json
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\net5.0\EmployeeManagement.BLL.dll
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\net5.0\EmployeeManagement.BLL.pdb
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\net5.0\EmployeeManagement.DAL.dll
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\bin\Debug\net5.0\EmployeeManagement.DAL.pdb
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.AssemblyInfoInputs.cache
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.AssemblyInfo.cs
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.csproj.CopyComplete
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.dll
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\refint\EmployeeManagement.BLL.dll
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\EmployeeManagement.BLL.pdb
+C:\Users\ymkaa\Documents\лабы\EmployeeManagement\EmployeeManagement.BLL\obj\Debug\net5.0\ref\EmployeeManagement.BLL.dll
